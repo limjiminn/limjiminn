@@ -1,3 +1,12 @@
+SKILLS
+-JAVA
+-KOTLN
+-C
+-PYTHON
+-SQL
+-HTML
+-JQUERY
+-SCRIPT
 
 
 <!--
